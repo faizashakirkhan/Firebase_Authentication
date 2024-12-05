@@ -1,5 +1,3 @@
-
-
 document.addEventListener("DOMContentLoaded", () => {
 	// Get form elements
 	const signup = document.getElementById("signup"); // Correct form ID
@@ -39,4 +37,3 @@ document.addEventListener("DOMContentLoaded", () => {
 		// Redirect to the dashboard
 		window.location.href = "post.html";
 	});
-	
